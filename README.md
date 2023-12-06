@@ -1,4 +1,5 @@
 use this command to install the requirements.
+
 '''
 pip install git+https://github.com/alex-bogatu/d3l
 '''
